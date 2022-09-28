@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eliabee10
 - 👀 I’m interested in ... tirar notas boas
 - 🌱 I’m currently learning ...  a ser melhor
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...meu emai: eliabe.ferreira@escola.pr.gov.br
 
 <!---
